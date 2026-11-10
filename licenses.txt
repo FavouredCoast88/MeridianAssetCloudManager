@@ -1,0 +1,2 @@
+LIC001,Microsoft 365,5,200.0
+LIC002,AWS Cloud Services,4,250.0

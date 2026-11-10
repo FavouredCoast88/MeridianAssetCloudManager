@@ -1,0 +1,7 @@
+H001,Dell Laptop,Laptop,Assigned,850.0
+H002,Dell OptiPlex,Desktop,Assigned,1200.0
+H003,Dell Laptop,Laptop,Available,800.0
+H004,Acer Pro,Laptop,Available,800.0
+H005,PS2 Pro,Printer,Available,120.0
+H006,Mecer,Monitor,Available,100.0
+H007,HP,Printer,Available,50.0

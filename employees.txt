@@ -1,0 +1,4 @@
+EMP001,Lionel,IT
+EMP002,Ben,Sales
+EMP003,Bob,HR
+EMP004,Albert,IT
